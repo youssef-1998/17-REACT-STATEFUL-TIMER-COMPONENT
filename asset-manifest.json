@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACT-STATEFUL-TIMER-COMPONENT/static/css/main.853dad28.chunk.css",
+    "main.js": "/REACT-STATEFUL-TIMER-COMPONENT/static/js/main.b9220176.chunk.js",
+    "main.js.map": "/REACT-STATEFUL-TIMER-COMPONENT/static/js/main.b9220176.chunk.js.map",
+    "runtime-main.js": "/REACT-STATEFUL-TIMER-COMPONENT/static/js/runtime-main.eb58de0f.js",
+    "runtime-main.js.map": "/REACT-STATEFUL-TIMER-COMPONENT/static/js/runtime-main.eb58de0f.js.map",
+    "static/js/2.888bd26b.chunk.js": "/REACT-STATEFUL-TIMER-COMPONENT/static/js/2.888bd26b.chunk.js",
+    "static/js/2.888bd26b.chunk.js.map": "/REACT-STATEFUL-TIMER-COMPONENT/static/js/2.888bd26b.chunk.js.map",
+    "index.html": "/REACT-STATEFUL-TIMER-COMPONENT/index.html",
+    "precache-manifest.b8feb7abd86a008930fd1f3083c55dfd.js": "/REACT-STATEFUL-TIMER-COMPONENT/precache-manifest.b8feb7abd86a008930fd1f3083c55dfd.js",
+    "service-worker.js": "/REACT-STATEFUL-TIMER-COMPONENT/service-worker.js",
+    "static/css/main.853dad28.chunk.css.map": "/REACT-STATEFUL-TIMER-COMPONENT/static/css/main.853dad28.chunk.css.map",
+    "static/media/App.css": "/REACT-STATEFUL-TIMER-COMPONENT/static/media/background.d1b8a356.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb58de0f.js",
+    "static/js/2.888bd26b.chunk.js",
+    "static/css/main.853dad28.chunk.css",
+    "static/js/main.b9220176.chunk.js"
+  ]
+}
